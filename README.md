@@ -1,4 +1,4 @@
-# Image_Colorization
+# Image_Colorization using Autoencoder
 
 In this project, the model is trained to color grayscale images based on CNN. Model
 comprises of VGG16(encoder) and custom made decoder. LAB color space is used. L
